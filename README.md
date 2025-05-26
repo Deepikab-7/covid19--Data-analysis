@@ -10,9 +10,9 @@ This project presents an exploratory analysis of global COVID-19 data using Pyth
 
 ## 📌 Project Highlights
 
-- Analysis of confirmed cases, deaths, and recoveries across countries
-- Interactive graphs and maps to visualize trends over time
-- Clear and informative visuals that enhance data understanding
+- Analyzed global and country-wise confirmed cases and deaths
+- Created interactive graphs and maps to visualize pandemic trends over time
+- Delivered clear, insightful visuals to support data-driven understanding
 
 ## 🗂️ Data Source
 
